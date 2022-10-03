@@ -26,11 +26,11 @@ This is My Portfolio application
 
 <!-- <!-- ### Screenshot -->
 
-![screenshot](/src/screenshots/screenshot.jpeg) -->
+![screenshot](/src/screenshots/screenshot.jpeg)
 
 ### Links
 
-- Solution URL: [@GitHub](https://github.com/RajeshxD/todo-app)
+- Solution URL: [@GitHub](https://github.com/RajeshxD/portfolio-react)
 - Live Site URL: [@Netlify](https://rajesha.netlify.app/)
   [![Netlify Status](https://api.netlify.com/api/v1/badges/bf32737d-afbf-4360-a315-fec90aa06de0/deploy-status)](https://rajesha.netlify.app/)
 
