@@ -8,8 +8,8 @@ import GitHub from "../assets/github.png";
 import Tailwind from "../assets/tailwind.png";
 import Bootstrap from "../assets/bootstrap.png";
 import Api from "../assets/api.png";
+import FireBase from "../assets/firebase.png";
 // import Node from "../assets/node.png";
-// import FireBase from "../assets/firebase.png";
 // import AWS from "../assets/aws.png";
 // import Mongo from "../assets/mongo.png";
 const Skills = () => {
@@ -45,6 +45,14 @@ const Skills = () => {
           <div className="shadow-md shadow-[#00b2e1] hover:scale-110 duration-500 p-4">
             <img className="w-20 mx-auto" src={ReactImg} alt="react-icon" />
             <p className="my-3">React</p>
+          </div>
+          <div className="shadow-md shadow-[#00b2e1] hover:scale-110 duration-500 p-4">
+            <img
+              className="w-20 mx-auto"
+              src={FireBase}
+              alt="javascript-icon"
+            />
+            <p className="my-3">Firebase</p>
           </div>
           <div className="shadow-md shadow-[#00b2e1] hover:scale-110 duration-500 p-4">
             <img
